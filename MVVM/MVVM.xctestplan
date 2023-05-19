@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "2DDD8F55-432F-4E8C-9436-0E31165CDD5E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MVVM.xcodeproj",
+      "identifier" : "4BB631DF2A0B659C005130C0",
+      "name" : "MVVM"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
